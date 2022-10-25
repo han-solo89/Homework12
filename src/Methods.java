@@ -6,7 +6,6 @@ public class Methods {
         boolean yearIsLeap = isLeap(year);
         printIsLeapYearResult(year, yearIsLeap);
 
-
     }
 
     public static boolean isLeap(int year) {
